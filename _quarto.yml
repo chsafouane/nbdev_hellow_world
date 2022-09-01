@@ -21,7 +21,7 @@ website:
   twitter-card: true
   open-graph: true
   reader-mode: true
-  repo-branch: master
+  repo-branch: main
   repo-url: "https://github.com/chsafouane/nbdev-hellow-world"
   repo-actions: [issue]
   navbar:
